@@ -1,0 +1,59 @@
+﻿@font-face {
+  font-family: Maxwell-Regular;
+  src: url("../fonts/Maxwell/Maxwell-REGULAR.ttf");
+}
+
+@font-face {
+  font-family: Maxwell-Bold;
+  src: url("../fonts/Maxwell/Maxwell-BOLD.ttf");
+}
+
+@font-face {
+  font-family: Maxwell-Light;
+  src: url("../fonts/Maxwell/Maxwell-LIGHT.ttf");
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #333;
+  width: 100%;
+  margin-top: 3.4%;
+  margin-bottom: 16vh;
+  background-color: #f2f2f2;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol,
+li,
+li a {
+  list-style: none;
+}
+
+.texto-titulo {
+  font-family: Maxwell-Bold, sans-serif;
+  font-size: 1.2em;
+  transition: 0.2s;
+}
+
+.texto-menu {
+  font-family: Maxwell-Bold, sans-serif;
+  font-size: 1.1em;
+  transition: 0.1s;
+}
+
+@media (max-width: 768px) {
+  body {
+    margin-top: 15%;
+    margin-bottom: 22vh; 
+  }
+}

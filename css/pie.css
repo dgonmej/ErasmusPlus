@@ -1,0 +1,229 @@
+@import url("font-awesome.min.css");
+
+footer {
+  position: fixed;
+  bottom: 0;
+  margin: 0 -15px;
+  width: 100%;
+  background: #b3f9d3;
+}
+
+#barra_top {
+  background: #d9d9d9;
+  margin: 0;
+  padding: 0;
+}
+
+#barra_bottom {
+  background: #222;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+#menu_pie {
+  text-transform: uppercase;
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+}
+
+#menu_pie li {
+  width: 20%;
+  display: inline-block;
+  position: relative;
+}
+
+#menu_pie li ul {
+  display: none;
+  width: 100%;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  border: solid 2px #444;
+  border-bottom: none;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin: 0;
+  padding: 0;
+}
+
+#menu_pie li ul li {
+  display: block;
+  width: 100%;
+  background-color: #d9d9d9;
+  margin: 0;
+  padding: 0;
+}
+
+#menu_pie li ul li:nth-child(1) > a,
+#menu_pie li ul li:nth-child(1) {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+#menu_pie li ul li a:hover {
+  background-color: #bfbfbf;
+}
+
+#menu_pie li:hover > ul {
+  display: block;
+  z-index: 1000;
+}
+
+#menu_pie li a {
+  width: 100%;
+  color: #444;
+  font-family: Maxwell-Bold, sans-serif;
+  font-size: 1.4em;
+  display: inline-block;
+  transition: 0.4s;
+  margin: 0;
+  padding: 10px 0;
+}
+
+#rrss {
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
+#rrss li {
+  float: right;
+}
+
+.icono {
+  text-decoration: none;
+  font-size: 1.4em;
+  margin: 0 6px;
+}
+
+.icono:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: 1.4em;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  color: #262424;
+  transition: 0.4s;
+  padding: 4px 0;
+}
+
+.fa-twitter:hover:before {
+  color: #1dcaff;
+}
+
+.fa-facebook:hover:before {
+  color: #3b5998;
+}
+
+.icono > .label {
+  display: none;
+}
+
+#validacion {
+  color: #dad3d3;
+  font-family: Maxwell-Light, sans-serif;
+  font-size: 1.2em;
+  margin: 1% 0;
+  padding: 0;
+}
+
+#validacion li {
+  display: inline-block;
+  transition: 0.4s;
+  margin: 0 20px 0 0;
+  padding: 0 0 0 17px;
+}
+
+#legalidad {
+  color: #777;
+  margin: 1.8% 5%;
+  padding: 0;
+}
+
+#legalidad li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.aviso_legal {
+  color: #9d8e6e;
+  font: 12px Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  transition: 0.4s;
+}
+
+.autor {
+  float: right;
+  color: #dad3d3;
+  font-family: Maxwell-Light, sans-serif;
+  font-size: 16px;
+  margin: 3% 0;
+  padding: 0;
+}
+
+.autor-nombre {
+  color: #9d8e6e;
+  font-family: Maxwell-Regular, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  transition: 0.4s;
+}
+
+#contenedor-menu_pie,
+#contenedor-validacion,
+#contenedor-legalidad {
+  text-align: center;
+}
+
+#menu_pie li a:hover,
+#validacion li span,
+#validacion li:hover {
+  color: #9d8e6e;
+}
+
+.fa-github:hover:before,
+.fa-envelope:hover:before {
+  color: #626266;
+}
+
+.aviso_legal:hover,
+.autor-nombre:hover {
+  color: #fff;
+}
+@media (max-width: 768px) {
+
+  footer {
+    margin: 0 -15px;
+  }
+
+  #menu_pie {
+    display: none;
+  }
+
+  .icono {
+    margin: 0 12px;
+  }
+
+  #validacion {
+    display: none;
+  }
+
+  #validacion li {
+    margin: 0 1% 0 0;
+    padding: 0 0 0 1%;
+  }
+
+  .autor {
+    width: 100%;
+    font-size: 1.2em;
+    text-align: center;
+    margin: 1%;
+  }
+
+  .autor-nombre {
+    font-size: 1.2em;
+  }
+}

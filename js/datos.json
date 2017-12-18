@@ -1,0 +1,466 @@
+{
+    "movilidadGM00": {
+        "tipo": "Grado Medio",
+        "ciclo": "Sistemas Microinformáticos y Redes",
+        "pais": "Italia",
+        "ciudad": "Barcellona Pozzo di Gotto",
+        "latitud": 38.148700,
+        "longitud": 15.211400
+    },
+    "movilidadGM01": {
+        "tipo": "Grado Medio",
+        "ciclo": "Sistemas Microinformáticos y Redes",
+        "pais": "Italia",
+        "ciudad": "Vicenza",
+        "latitud": 45.5467200,
+        "longitud": 11.5475000
+    },
+    "movilidadGM02": {
+        "tipo": "Grado Medio",
+        "ciclo": "Sistemas Microinformáticos y Redes",
+        "pais": "Italia",
+        "ciudad": "Brescia",
+        "latitud": 45.5355800,
+        "longitud": 10.2147200
+    },
+    "movilidadGM03": {
+        "tipo": "Grado Medio",
+        "ciclo": "Sistemas Microinformáticos y Redes",
+        "pais": "Polonia",
+        "ciudad": "Cracovia",
+        "latitud": 50.0614300,
+        "longitud": 19.9365800
+    },
+    "movilidadGM04": {
+        "tipo": "Grado Medio",
+        "ciclo": "Sistemas Microinformáticos y Redes",
+        "pais": "Reino Unido",
+        "ciudad": "Bournemonth",
+        "latitud": 50.7204800,
+        "longitud": -1.8795000
+    },
+    "movilidadGM05": {
+        "tipo": "Grado Medio",
+        "ciclo": "Sistemas Microinformáticos y Redes",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadGM06": {
+        "tipo": "Grado Medio",
+        "ciclo": "Instalaciones de Telecomunicaciones",
+        "pais": "Italia",
+        "ciudad": "Vicenza",
+        "latitud": 45.5467200,
+        "longitud": 11.5475000
+    },
+    "movilidadGM07": {
+        "tipo": "Grado Medio",
+        "ciclo": "Instalaciones de Telecomunicaciones",
+        "pais": "Italia",
+        "ciudad": "Barcellona Pozzo di Gotto",
+        "latitud": 38.148700,
+        "longitud": 15.211400
+    },
+    "movilidadGM08": {
+        "tipo": "Grado Medio",
+        "ciclo": "Instalaciones Eléctricas y Automatismos",
+        "pais": "Italia",
+        "ciudad": "Barcellona Pozzo di Gotto",
+        "latitud": 38.148700,
+        "longitud": 15.211400
+    },
+    "movilidadGM09": {
+        "tipo": "Grado Medio",
+        "ciclo": "Instalaciones Eléctricas y Automatismos",
+        "pais": "Italia",
+        "ciudad": "Catania",
+        "latitud": 37.4922300,
+        "longitud": 15.0704100
+    },
+    "movilidadGM10": {
+        "tipo": "Grado Medio",
+        "ciclo": "Instalaciones Eléctricas y Automatismos",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadGM11": {
+        "tipo": "Grado Medio",
+        "ciclo": "Gestión Administrativa",
+        "pais": "Italia",
+        "ciudad": "Barcellona Pozzo di Gotto",
+        "latitud": 38.148700,
+        "longitud": 15.211400
+    },
+    "movilidadGM12": {
+        "tipo": "Grado Medio",
+        "ciclo": "Gestión Comercial",
+        "pais": "Italia",
+        "ciudad": "Barcellona Pozzo di Gotto",
+        "latitud": 38.148700,
+        "longitud": 15.211400
+    },
+    "movilidadGM13": {
+        "tipo": "Grado Medio",
+        "ciclo": "Gestión Comercial",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadPr00": {
+        "tipo": "Profesorado",
+        "ciclo": "Informática y Comunicaciones",
+        "pais": "Italia",
+        "ciudad": "Brescia",
+        "latitud": 45.5355800,
+        "longitud": 10.2147200
+    },
+    "movilidadPr01": {
+        "tipo": "Profesorado",
+        "ciclo": "Informática y Comunicaciones",
+        "pais": "Italia",
+        "ciudad": "Barcellona Pozzo di Gotto",
+        "latitud": 38.148700,
+        "longitud": 15.211400
+    },
+    "movilidadPr02": {
+        "tipo": "Profesorado",
+        "ciclo": "Informática y Comunicaciones",
+        "pais": "Italia",
+        "ciudad": "Bologna",
+        "latitud": 44.4938100,
+        "longitud": 11.3387500
+    },
+    "movilidadPr03": {
+        "tipo": "Profesorado",
+        "ciclo": "Imagen y Sonido",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "latitud": 51.5085300,
+        "longitud": -0.1257400
+    },
+    "movilidadPr04": {
+        "tipo": "Profesorado",
+        "ciclo": "Comercio y Marketing",
+        "pais": "Reino Unido",
+        "ciudad": "Bournemonth",
+        "latitud": 50.7204800,
+        "longitud": -1.8795000
+    },
+    "movilidadPr05": {
+        "tipo": "Profesorado",
+        "ciclo": "Comercio y Marketing",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "latitud": 51.5085300,
+        "longitud": -0.1257400
+    },
+    "movilidadPr06": {
+        "tipo": "Profesorado",
+        "ciclo": "Electricidad y Electronica",
+        "pais": "Polonia",
+        "ciudad": "Wroclaw",
+        "latitud": 51.1000000,
+        "longitud": 17.0333300
+    },
+    "movilidadGS01": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración y Finanzas",
+        "pais": "Reino Unido",
+        "ciudad": "Oxford",
+        "latitud": 51.7522200,
+        "longitud": -1.2559600
+    },
+    "movilidadGS02": {
+        "tipo": "Grado Superior",
+        "ciclo": "Desarrollo de Aplicaciones Web",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadGS03": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Irlanda",
+        "ciudad": "Cork",
+        "latitud": 51.8979700,
+        "longitud": -8.4706100
+    },
+    "movilidadGS04": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Italia",
+        "ciudad": "Tolentino",
+        "latitud": 43.2091800,
+        "longitud": 13.2852400
+    },
+    "movilidadGS05": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Alemania",
+        "ciudad": "Berlin",
+        "latitud": 52.5243700,
+        "longitud": 13.4105300
+    },
+    "movilidadGS06": {
+        "tipo": "Grado Superior",
+        "ciclo": "Comercio Internacional",
+        "pais": "Holanda",
+        "ciudad": "Amsterdam",
+        "latitud": 52.3740300,
+        "longitud": 4.8896900
+    },
+    "movilidadGS07": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Polonia",
+        "ciudad": "Cracovia",
+        "latitud": 50.0614300,
+        "longitud": 19.9365800
+    },
+    "movilidadGS08": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Malta",
+        "ciudad": "Qormi",
+        "latitud": 35.8760100,
+        "longitud": 14.4720000
+    },
+    "movilidadGS09": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Reino Unido",
+        "ciudad": "Plymouth",
+        "latitud": 50.3715300,
+        "longitud": -4.1430500
+    },
+    "movilidadGS10": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Malta",
+        "ciudad": "Attard",
+        "latitud": 35.892800,
+        "longitud": 14.438300
+    },
+    "movilidadGS11": {
+        "tipo": "Grado Superior",
+        "ciclo": "Mantenimiento Electrónico",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "latitud": 51.5085300,
+        "longitud": -0.1257400
+    },
+    "movilidadGS12": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "latitud": 51.5085300,
+        "longitud": -0.1257400
+    },
+    "movilidadGS13": {
+        "tipo": "Grado Superior",
+        "ciclo": "Desarrollo de Aplicaciones Multiplataforma",
+        "pais": "Irlanda",
+        "ciudad": "Dublin",
+        "latitud": 53.3330600,
+        "longitud": -6.2488900
+    },
+    "movilidadGS14": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración y Finanzas",
+        "pais": "Malta",
+        "ciudad": "La Valletta",
+        "latitud": 35.8997200,
+        "longitud": 14.5147200
+    },
+    "movilidadGS15": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Irlanda",
+        "ciudad": "Ballinasloe",
+        "latitud": 53.3275000,
+        "longitud": -8.2194400
+    },
+    "movilidadGS16": {
+        "tipo": "Grado Superior",
+        "ciclo": "Producción de Audiovisuales y Espectáculos",
+        "pais": "Irlanda",
+        "ciudad": "Carlow",
+        "latitud": 52.8408300,
+        "longitud": -6.9261100
+    },
+    "movilidadGS17": {
+        "tipo": "Grado Superior",
+        "ciclo": "Marketing y Publicidad",
+        "pais": "Hungría",
+        "ciudad": "Budapest",
+        "latitud": 47.4980100,
+        "longitud": 19.0399100
+    },
+    "movilidadGS18": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Irlanda",
+        "ciudad": "Dublin",
+        "latitud": 53.3330600,
+        "longitud": -6.2488900
+    },
+    "movilidadGS19": {
+        "tipo": "Grado Superior",
+        "ciclo": "Desarrollo de Aplicaciones Web",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadGS20": {
+        "tipo": "Grado Superior",
+        "ciclo": "Comercio Internacional",
+        "pais": "Irlanda",
+        "ciudad": "Cork",
+        "latitud": 51.8979700,
+        "longitud": -8.4706100
+    },
+    "movilidadGS21": {
+        "tipo": "Grado Superior",
+        "ciclo": "Gestión de Ventas y Espacios Comerciales",
+        "pais": "Irlanda",
+        "ciudad": "Cork",
+        "latitud": 51.8979700,
+        "longitud": -8.4706100
+    },
+    "movilidadGS22": {
+        "tipo": "Grado Superior",
+        "ciclo": "Desarrollo de Aplicaciones Web",
+        "pais": "Irlanda",
+        "ciudad": "Cork",
+        "latitud": 51.8979700,
+        "longitud": -8.4706100
+    },
+    "movilidadGS23": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración y Finanzas",
+        "pais": "Irlanda",
+        "ciudad": "Cork",
+        "latitud": 51.8979700,
+        "longitud": -8.4706100
+    },
+    "movilidadGS24": {
+        "tipo": "Grado Superior",
+        "ciclo": "Comercio y Marketing",
+        "pais": "Reino Unido",
+        "ciudad": "Bournemonth",
+        "latitud": 50.7204800,
+        "longitud": -1.8795000
+    },
+    "movilidadGS25": {
+        "tipo": "Grado Superior",
+        "ciclo": "Marketing y Publicidad",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "latitud": 51.5085300,
+        "longitud": -0.1257400
+    },
+    "movilidadGS26": {
+        "tipo": "Grado Superior",
+        "ciclo": "Comercio y Marketing",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "latitud": 51.5085300,
+        "longitud": -0.1257400
+    },
+    "movilidadGS27": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Reino Unido",
+        "ciudad": "Brighton",
+        "latitud": 50.8283800,
+        "longitud": -0.1394700
+    },
+    "movilidadGS28": {
+        "tipo": "Grado Superior",
+        "ciclo": "Transporte y Logística",
+        "pais": "Malta",
+        "ciudad": "Iklin",
+        "latitud": 35.9094444,
+        "longitud": 14.4555555
+    },
+    "movilidadGS29": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración y Finanzas",
+        "pais": "Noruega",
+        "ciudad": "Sortland",
+        "latitud": 68.6956900,
+        "longitud": 15.4049800
+    },
+    "movilidadGS30": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadGS31": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Polonia",
+        "ciudad": "Cracovia",
+        "latitud": 50.0614300,
+        "longitud": 19.9365800
+    },
+    "movilidadGS32": {
+        "tipo": "Grado Superior",
+        "ciclo": "Realización de Audiovisuales y Espectáculos",
+        "pais": "Polonia",
+        "ciudad": "Cracovia",
+        "latitud": 50.0614300,
+        "longitud": 19.9365800
+    },
+    "movilidadGS33": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración y Finanzas",
+        "pais": "Polonia",
+        "ciudad": "Cracovia",
+        "latitud": 50.0614300,
+        "longitud": 19.9365800
+    },
+    "movilidadGS34": {
+        "tipo": "Grado Superior",
+        "ciclo": "Administración de Sistemas Informáticos en Red",
+        "pais": "Reino Unido",
+        "ciudad": "Brighton",
+        "latitud": 50.8283800,
+        "longitud": -0.1394700
+    },
+    "movilidadGS35": {
+        "tipo": "Grado Superior",
+        "ciclo": "Comercio Internacional",
+        "pais": "República Checa",
+        "ciudad": "Praga",
+        "latitud": 50.0880400,
+        "longitud": 14.4207600
+    },
+    "movilidadGS36": {
+        "tipo": "Grado Superior",
+        "ciclo": "Comercio Internacional",
+        "pais": "Malta",
+        "ciudad": "La Valletta",
+        "latitud": 35.8997200,
+        "longitud": 14.5147200
+    },
+    "movilidadGS37": {
+        "tipo": "Grado Superior",
+        "ciclo": "Producción de Audiovisuales y Espectáculos",
+        "pais": "Reino Unido",
+        "ciudad": "Brighton",
+        "latitud": 50.8283800,
+        "longitud": -0.1394700
+    }
+}
