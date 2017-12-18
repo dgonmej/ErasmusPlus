@@ -13,7 +13,6 @@ Herramientas utilizadas:
 + API de Google Maps
 
 
-dgonmej
---------------------
+#### dgonmej
 
-&nbsp;&nbsp;&nbsp;&nbsp;[github.com/dgonmej](github.com/dgonmej)
+&nbsp;&nbsp;&nbsp;&nbsp;[github.com/dgonmej](https://github.com/dgonmej)
