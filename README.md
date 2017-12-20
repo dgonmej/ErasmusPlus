@@ -12,7 +12,7 @@ Herramientas utilizadas:
 + JavaScript
 + API de Google Maps
 
-Puedes probar la página en [dgonmej.ErasmusPlus](https://dgonmej.github.io/ErasmusPlus/)
+Puedes probar la página en [dgonmej/ErasmusPlus](https://dgonmej.github.io/ErasmusPlus/)
 
 #### dgonmej
 
